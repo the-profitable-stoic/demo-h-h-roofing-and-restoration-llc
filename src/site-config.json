@@ -1,0 +1,548 @@
+{
+  "business": {
+    "name": "H&H Roofing and Restoration LLC",
+    "phone": "+16203329249",
+    "category": "roofer",
+    "city": "Kansas City",
+    "state": "MO"
+  },
+  "design": {
+    "preset": {
+      "id": "roofing-heritage-craft",
+      "categoryGroup": "roofing",
+      "name": "Heritage Craft",
+      "recipeFile": "roofing/heritage-craft.astro",
+      "colors": {
+        "primary": "#3D2E1F",
+        "primaryDark": "#251A10",
+        "primaryLight": "#D4C5B0",
+        "secondary": "#5C4A3A",
+        "accent": "#6B5335",
+        "background": "#F5F2ED",
+        "backgroundAlt": "#5C4A3A",
+        "surface": "#EDEAE4",
+        "text": "#1A1510",
+        "textLight": "#4A4540",
+        "textOnDark": "#F5F2ED",
+        "border": "#D5CEBC"
+      },
+      "typography": {
+        "headingFont": "Playfair Display",
+        "headingWeight": "600",
+        "bodyFont": "Libre Franklin",
+        "bodyWeight": "400",
+        "headingStyle": "normal",
+        "scale": "1.25"
+      },
+      "shape": {
+        "borderRadius": "4px",
+        "buttonRadius": "4px",
+        "cardRadius": "6px",
+        "shadowStyle": "subtle"
+      },
+      "sections": {
+        "heroStyle": "dark",
+        "sectionAlternation": [
+          "light",
+          "surface",
+          "light",
+          "surface",
+          "light"
+        ],
+        "animationStyle": "fade",
+        "spacingScale": "generous"
+      }
+    },
+    "recipeId": "roofing/heritage-craft"
+  },
+  "content": {
+    "homepage": {
+      "heroHeadline": "KC's Trusted Roofing Experts",
+      "heroSubline": "Protecting homes and businesses across Kansas City. Quality roofing, reliable service, guaranteed.",
+      "aboutTitle": "Built on Integrity, Roofed in Excellence",
+      "aboutText": [
+        "H&H Roofing and Restoration LLC started with a simple goal: provide honest, reliable roofing services to the Kansas City community. We're not just roofers; we're your neighbors, committed to protecting your home from the unpredictable Missouri weather.",
+        "Our approach is straightforward: meticulous craftsmanship, clear communication, and a dedication to doing the job right the first time. We treat every project, from a small repair to a complete roof replacement, with the same level of care and attention to detail.",
+        "We're proud to be a part of the Kansas City community. We actively support local initiatives and believe in giving back to the neighborhoods we serve. When you choose H&H Roofing, you're choosing a company that cares."
+      ],
+      "valueProps": [
+        {
+          "title": "Local Expertise",
+          "description": "Deep understanding of Kansas City's climate and housing styles."
+        },
+        {
+          "title": "Quality Materials",
+          "description": "Using only the best roofing materials for lasting protection."
+        },
+        {
+          "title": "Expert Craftsmanship",
+          "description": "Skilled professionals dedicated to superior workmanship."
+        },
+        {
+          "title": "Transparent Pricing",
+          "description": "Honest and upfront pricing with no hidden fees."
+        }
+      ],
+      "ctaHeadline": "Get Your Free Roofing Inspection Today!",
+      "ctaSubline": "Protect your investment with a thorough roof assessment from H&H Roofing."
+    },
+    "services": [
+      {
+        "slug": "roof-repair",
+        "name": "Roof Repair",
+        "shortDescription": "Fast, reliable repairs to stop leaks and protect your home.",
+        "description": "Don't let a minor roof issue turn into a major headache. H&H Roofing and Restoration provides comprehensive roof repair services throughout the Kansas City metro area. From patching leaks caused by ice storms to replacing damaged shingles after a severe thunderstorm, we've seen it all. We understand the unique challenges that Kansas City's climate poses to roofs, including freeze-thaw cycles and high winds. \n\nOur experienced technicians will thoroughly inspect your roof to identify the source of the problem and provide a clear, honest assessment of the necessary repairs. We use quality materials that are designed to withstand the harsh Missouri weather, ensuring lasting protection for your home. Whether it's a simple shingle replacement or a more complex repair, we'll get the job done quickly and efficiently, minimizing disruption to your daily life.\n\nIgnoring roof damage can lead to more serious problems, such as water damage, mold growth, and structural issues. Contact H&H Roofing and Restoration today for a prompt and reliable roof repair service.",
+        "process": [
+          "Step 1: Schedule a free inspection.",
+          "Step 2: Receive a detailed assessment and transparent quote.",
+          "Step 3: Approve the repair plan.",
+          "Step 4: Our team completes the repairs with quality materials and expert craftsmanship."
+        ],
+        "benefits": [
+          "Stops leaks and prevents water damage",
+          "Extends the life of your roof",
+          "Protects your home from the elements",
+          "Increases property value"
+        ],
+        "faq": [
+          {
+            "question": "How do I know if I need a roof repair?",
+            "answer": "Signs of roof damage include leaks, missing or damaged shingles, water stains on your ceiling, and excessive granule loss in your gutters. If you notice any of these issues, it's important to call a professional roofer for an inspection."
+          },
+          {
+            "question": "How long does a roof repair take?",
+            "answer": "The duration of a roof repair depends on the extent of the damage. Simple repairs can often be completed in a day, while more complex repairs may take several days."
+          },
+          {
+            "question": "Do you offer emergency roof repair services?",
+            "answer": "Yes, we offer 24/7 emergency roof repair services to address urgent issues such as leaks caused by storms. Call us anytime, and we'll respond as quickly as possible."
+          }
+        ]
+      },
+      {
+        "slug": "roof-replacement",
+        "name": "Roof Replacement",
+        "shortDescription": "Upgrade your home with a durable and beautiful new roof.",
+        "description": "Is your roof showing its age? Has it sustained significant damage from Kansas City's unpredictable weather? H&H Roofing and Restoration offers complete roof replacement services to protect your home and enhance its curb appeal. We understand that a roof replacement is a significant investment, and we're committed to providing you with a seamless and stress-free experience.\n\nWe offer a wide variety of roofing materials to choose from, including asphalt shingles, metal roofing, and tile roofing. Our experienced team will help you select the best option for your home's style, budget, and performance needs. We only use high-quality materials from trusted manufacturers, ensuring lasting protection and beauty. We are familiar with the common roofing styles in neighborhoods like Brookside, Waldo, and throughout the Northland. \n\nOur roof replacement process is thorough and meticulous. We remove your old roof, inspect the underlying structure for any damage, and install a new roofing system that meets or exceeds industry standards. We also take great care to protect your property during the replacement process, minimizing disruption to your daily life. With H&H Roofing and Restoration, you can be confident that your new roof will provide years of reliable protection and enhance the value of your home.",
+        "process": [
+          "Step 1: Free roof inspection and consultation.",
+          "Step 2: Material selection and project planning.",
+          "Step 3: Old roof removal and disposal.",
+          "Step 4: New roof installation and cleanup."
+        ],
+        "benefits": [
+          "Increased property value",
+          "Enhanced curb appeal",
+          "Improved energy efficiency",
+          "Long-lasting protection"
+        ],
+        "faq": [
+          {
+            "question": "How long does a roof replacement take?",
+            "answer": "The duration of a roof replacement depends on the size and complexity of the roof. Most roof replacements can be completed in 1-3 days."
+          },
+          {
+            "question": "How much does a roof replacement cost?",
+            "answer": "The cost of a roof replacement varies depending on the materials selected, the size of the roof, and the complexity of the project. We offer free estimates to provide you with a clear understanding of the costs involved."
+          },
+          {
+            "question": "Do you offer financing options for roof replacements?",
+            "answer": "Yes, we offer flexible financing options to help make your roof replacement more affordable. Contact us to learn more about our financing programs."
+          }
+        ]
+      },
+      {
+        "slug": "gutter-services",
+        "name": "Gutter Services",
+        "shortDescription": "Protect your foundation with proper gutter installation and maintenance.",
+        "description": "Don't underestimate the importance of a properly functioning gutter system. H&H Roofing and Restoration offers comprehensive gutter services to protect your home from water damage. We understand the critical role that gutters play in diverting rainwater away from your foundation, preventing costly repairs and potential structural issues, especially with the clay soil common in the Kansas City area.\n\nWe offer gutter installation, repair, and cleaning services. Our experienced technicians will assess your home's needs and recommend the best gutter system for your specific requirements. We install seamless gutters, which are custom-made on-site to ensure a perfect fit and eliminate leaks. We also offer gutter guards to prevent debris from clogging your gutters, reducing the need for frequent cleaning.\n\nRegular gutter maintenance is essential to keep your gutters functioning properly. We provide thorough gutter cleaning services to remove leaves, twigs, and other debris that can clog your gutters and cause water to overflow. Overflowing gutters can damage your siding, fascia, and foundation, leading to costly repairs. With H&H Roofing and Restoration, you can ensure that your gutters are always in top condition, protecting your home from the elements.",
+        "process": [
+          "Step 1: Evaluate your home's gutter needs.",
+          "Step 2: Recommend the best gutter system.",
+          "Step 3: Install, repair, or clean your gutters.",
+          "Step 4: Ensure proper water drainage."
+        ],
+        "benefits": [
+          "Protects your foundation from water damage",
+          "Prevents siding and fascia damage",
+          "Reduces the risk of mold growth",
+          "Extends the life of your roof"
+        ],
+        "faq": [
+          {
+            "question": "How often should I clean my gutters?",
+            "answer": "Ideally, gutters should be cleaned at least twice a year, in the spring and fall. If you live in an area with many trees, you may need to clean your gutters more frequently."
+          },
+          {
+            "question": "What are the benefits of seamless gutters?",
+            "answer": "Seamless gutters are custom-made on-site to ensure a perfect fit and eliminate leaks. They are also more durable and require less maintenance than traditional gutters."
+          },
+          {
+            "question": "Do you offer gutter guards?",
+            "answer": "Yes, we offer a variety of gutter guards to prevent debris from clogging your gutters. Gutter guards can significantly reduce the need for gutter cleaning."
+          }
+        ]
+      },
+      {
+        "slug": "storm-damage-repair",
+        "name": "Storm Damage Repair",
+        "shortDescription": "Expert storm damage repair services to restore your home quickly.",
+        "description": "Kansas City's severe weather can wreak havoc on your roof and home. H&H Roofing and Restoration provides comprehensive storm damage repair services to help you recover quickly and efficiently. From high winds and hail to ice storms and tornadoes, we've seen the damage that Missouri weather can inflict, especially in areas like Lee's Summit and Olathe.\n\nWe offer 24/7 emergency services to address urgent issues such as leaks and structural damage. Our experienced team will assess the damage to your roof and provide a clear, honest estimate for the necessary repairs. We work closely with insurance companies to streamline the claims process and ensure that you receive the compensation you deserve. Our team is experienced in handling claims related to common storm damage in the KC area.\n\nWe provide a full range of storm damage repair services, including roof repair, roof replacement, siding repair, and gutter repair. Our goal is to restore your home to its pre-storm condition as quickly and efficiently as possible. We use quality materials and expert craftsmanship to ensure lasting protection and peace of mind. Don't let storm damage compromise the safety and integrity of your home. Contact H&H Roofing and Restoration for prompt and reliable storm damage repair services.",
+        "process": [
+          "Step 1: Emergency assessment and damage documentation.",
+          "Step 2: Insurance claim assistance.",
+          "Step 3: Repair or replacement planning.",
+          "Step 4: Professional restoration services."
+        ],
+        "benefits": [
+          "Fast response to storm damage",
+          "Insurance claim assistance",
+          "Comprehensive repair services",
+          "Restoration to pre-storm condition"
+        ],
+        "faq": [
+          {
+            "question": "What should I do if my roof is damaged in a storm?",
+            "answer": "The first thing you should do is ensure your safety. If there are any immediate hazards, such as downed power lines or structural instability, evacuate the area. Then, contact H&H Roofing and Restoration for a prompt assessment of the damage."
+          },
+          {
+            "question": "How can you help with my insurance claim?",
+            "answer": "We have extensive experience working with insurance companies and can help you navigate the claims process. We will provide detailed documentation of the damage and work with your insurance adjuster to ensure that you receive fair compensation."
+          },
+          {
+            "question": "How long does it take to repair storm damage?",
+            "answer": "The duration of storm damage repair depends on the extent of the damage and the availability of materials. We will work as quickly as possible to restore your home to its pre-storm condition."
+          }
+        ]
+      },
+      {
+        "slug": "commercial-roofing",
+        "name": "Commercial Roofing",
+        "shortDescription": "Reliable roofing solutions for businesses in Kansas City.",
+        "description": "H&H Roofing and Restoration provides comprehensive commercial roofing services to businesses throughout the Kansas City metro area. We understand the unique needs of commercial properties and offer tailored solutions to protect your investment. Whether you own an office building, retail space, or industrial facility, we have the expertise and experience to handle all of your commercial roofing needs.\n\nWe offer a wide range of commercial roofing services, including roof repair, roof replacement, and roof maintenance. We work with a variety of roofing materials, including TPO, EPDM, and metal roofing. Our experienced team will assess your building's specific needs and recommend the best roofing system for your requirements.\n\nWe understand that downtime can be costly for businesses. That's why we strive to complete all of our commercial roofing projects quickly and efficiently, minimizing disruption to your operations. We also offer preventative maintenance programs to help extend the life of your roof and prevent costly repairs. With H&H Roofing and Restoration, you can be confident that your commercial roof is in good hands.",
+        "process": [
+          "Step 1: Thorough assessment of your commercial roofing needs.",
+          "Step 2: Customized roofing solutions tailored to your business.",
+          "Step 3: Efficient and professional installation or repair.",
+          "Step 4: Ongoing maintenance and support."
+        ],
+        "benefits": [
+          "Durable and long-lasting roofing systems",
+          "Minimized downtime for your business",
+          "Expert craftsmanship and quality materials",
+          "Increased property value"
+        ],
+        "faq": [
+          {
+            "question": "What types of commercial roofing systems do you install?",
+            "answer": "We install a variety of commercial roofing systems, including TPO, EPDM, and metal roofing. Our team can help you choose the best option for your building's specific needs."
+          },
+          {
+            "question": "Do you offer preventative maintenance programs for commercial roofs?",
+            "answer": "Yes, we offer preventative maintenance programs to help extend the life of your roof and prevent costly repairs. Our maintenance programs include regular inspections, cleaning, and minor repairs."
+          },
+          {
+            "question": "How quickly can you complete a commercial roofing project?",
+            "answer": "The duration of a commercial roofing project depends on the size and complexity of the roof. We strive to complete all of our projects as quickly as possible, minimizing disruption to your business."
+          }
+        ]
+      },
+      {
+        "slug": "siding-services",
+        "name": "Siding Services",
+        "shortDescription": "Enhance your home's beauty and protection with new siding.",
+        "description": "Upgrade your home's curb appeal and protect it from the elements with H&H Roofing and Restoration's siding services. We offer a wide variety of siding options to suit your style, budget, and performance needs. From vinyl siding to fiber cement siding, we have the perfect solution to enhance your home's beauty and protect it from the harsh Missouri weather. Siding is especially important when dealing with older homes around Kansas City.\n\nOur experienced team will help you choose the best siding option for your home and provide expert installation services. We use only high-quality materials from trusted manufacturers, ensuring lasting protection and beauty. We also offer siding repair services to address any damage or wear and tear. Whether you need a complete siding replacement or a simple repair, H&H Roofing and Restoration is here to help.\n\nNew siding can significantly improve your home's energy efficiency, reducing your heating and cooling costs. It can also protect your home from moisture damage, preventing costly repairs and potential structural issues. With H&H Roofing and Restoration, you can be confident that your new siding will provide years of reliable protection and enhance the value of your home.",
+        "process": [
+          "Step 1: Consultation and siding selection.",
+          "Step 2: Precise measurements and custom fitting.",
+          "Step 3: Professional siding installation.",
+          "Step 4: Final inspection and cleanup."
+        ],
+        "benefits": [
+          "Enhanced curb appeal",
+          "Improved energy efficiency",
+          "Protection from the elements",
+          "Increased property value"
+        ],
+        "faq": [
+          {
+            "question": "What types of siding do you offer?",
+            "answer": "We offer a variety of siding options, including vinyl siding, fiber cement siding, and wood siding. Our team can help you choose the best option for your home's style and budget."
+          },
+          {
+            "question": "How long does siding installation take?",
+            "answer": "The duration of siding installation depends on the size of your home and the complexity of the project. We strive to complete all of our projects as quickly as possible, minimizing disruption to your daily life."
+          },
+          {
+            "question": "Does new siding increase property value?",
+            "answer": "Yes, new siding can significantly increase your property value by improving its curb appeal and protecting it from the elements."
+          }
+        ]
+      }
+    ],
+    "serviceAreas": [
+      {
+        "city": "Overland Park",
+        "slug": "overland-park-mo",
+        "state": "MO",
+        "content": "H&H Roofing and Restoration LLC is proud to offer comprehensive roofing services to Overland Park, Missouri. As a community known for its well-established suburban neighborhoods, many homes in Overland Park date back to the 1970s, 80s, and 90s, making regular roof maintenance and timely repairs essential. We understand the specific roofing needs of Overland Park residents and are dedicated to providing reliable, high-quality workmanship. \n\nOur team is experienced in handling a wide range of roofing issues common in Overland Park, including damage from the area's cold winters and occasional ice storms. We offer everything from minor repairs and preventative maintenance to complete roof replacements. We are committed to helping Overland Park homeowners protect their investments with durable, long-lasting roofing solutions.",
+        "localContext": "Overland Park's housing stock largely consists of established suburban developments built between the 1970s and 1990s, requiring specific roofing expertise for these types of homes; the climate is known for cold, icy winters.",
+        "nearbyAreas": [
+          "Leawood",
+          "Lenexa",
+          "Prairie Village"
+        ]
+      },
+      {
+        "city": "Olathe",
+        "slug": "olathe-mo",
+        "state": "MO",
+        "content": "H&H Roofing and Restoration LLC provides expert roofing services in Olathe, Missouri. Olathe's growth has been characterized by family-friendly developments constructed from the 1980s through the 2000s. This means a large portion of homes are of similar age and construction, requiring consistent maintenance to withstand the elements.\n\nWe understand the needs of Olathe homeowners and offer a full spectrum of roofing services, including inspections, repairs, and complete roof replacements. We're equipped to handle the challenges posed by Olathe's climate, including the impact of cold winters and potential ice storms on roofing systems. We provide quality workmanship and materials, ensuring your roof protects your family and investment for years to come.",
+        "localContext": "Olathe features a prevalence of family-oriented housing developments built primarily between the 1980s and 2000s; the local climate is characterized by cold winters with potential for ice storms.",
+        "nearbyAreas": [
+          "Gardner",
+          "Spring Hill",
+          "Lenexa"
+        ]
+      },
+      {
+        "city": "Lee's Summit",
+        "slug": "lee-s-summit-mo",
+        "state": "MO",
+        "content": "H&H Roofing and Restoration LLC is dedicated to serving the Lee's Summit, Missouri community with top-quality roofing services. Many homes in Lee's Summit were built in the 1970s through the 1990s, which means they may be reaching the end of their roof's lifespan. Regular inspections and timely repairs are crucial to protect your home from costly damage.\n\nWe offer comprehensive roofing solutions tailored to the specific needs of Lee's Summit homeowners, from minor repairs to complete roof replacements. We understand the challenges presented by the local climate, including cold winters and occasional ice storms. Our team is committed to providing reliable, durable roofing that stands the test of time.",
+        "localContext": "Lee's Summit's housing market is composed of many family homes constructed in the 1970s to 1990s; the climate includes cold winters and the potential for ice storms.",
+        "nearbyAreas": [
+          "Blue Springs",
+          "Independence",
+          "Raytown"
+        ]
+      },
+      {
+        "city": "Kansas City",
+        "slug": "kansas-city-mo",
+        "state": "MO",
+        "content": "H&H Roofing and Restoration LLC is proud to serve the diverse roofing needs of Kansas City, Missouri. From historic homes in the urban core to newer constructions in the suburbs, Kansas City presents a wide range of roofing styles and challenges. We understand the unique requirements of each neighborhood and are committed to providing exceptional service throughout the city.\n\nWe offer a full range of roofing services, including inspections, repairs, and replacements, using quality materials and expert craftsmanship. We are well-versed in dealing with the challenges posed by Kansas City's weather, from hot summers to cold, icy winters. Trust us to protect your home with a durable, reliable roof.",
+        "localContext": "Kansas City showcases a diverse mix of housing styles, from older, historic homes to modern suburban developments; the climate experiences all four seasons, including hot summers and cold, potentially icy winters.",
+        "nearbyAreas": [
+          "Independence",
+          "Overland Park",
+          "Gladstone"
+        ]
+      },
+      {
+        "city": "Independence",
+        "slug": "independence-mo",
+        "state": "MO",
+        "content": "H&H Roofing and Restoration LLC provides quality roofing solutions to the residents of Independence, Missouri. With a rich history and diverse housing stock, Independence presents unique roofing challenges. From older homes needing restoration to newer homes requiring preventative maintenance, we have the expertise to handle it all.\n\nWe offer a comprehensive range of roofing services, including inspections, repairs, and replacements, tailored to the specific needs of Independence homeowners. We understand the impact of the local climate on roofing systems and are committed to providing durable solutions that withstand the test of time.",
+        "localContext": "Independence features a diverse array of homes, from historic properties to more recent constructions; the climate is marked by distinct seasons, with cold winters being a key consideration for roofing.",
+        "nearbyAreas": [
+          "Kansas City",
+          "Blue Springs",
+          "Raytown"
+        ]
+      },
+      {
+        "city": "Blue Springs",
+        "slug": "blue-springs-mo",
+        "state": "MO",
+        "content": "H&H Roofing and Restoration LLC is committed to providing exceptional roofing services to the Blue Springs, Missouri community. Known for its family-friendly environment and mix of housing styles, Blue Springs requires a roofing contractor with diverse expertise.\n\nWe offer a full spectrum of roofing services, from minor repairs to complete roof replacements, using quality materials and expert craftsmanship. We understand the challenges posed by the local climate, including seasonal changes and occasional severe weather. Our team is dedicated to providing durable, reliable roofing solutions that protect your home for years to come.",
+        "localContext": "Blue Springs offers a mix of housing options, supporting a diverse community; the regional climate sees seasonal shifts, including a need to prepare roofs for cold winters.",
+        "nearbyAreas": [
+          "Lee's Summit",
+          "Grain Valley",
+          "Independence"
+        ]
+      },
+      {
+        "city": "Leawood",
+        "slug": "leawood-mo",
+        "state": "MO",
+        "content": "H&H Roofing and Restoration LLC is proud to offer its roofing expertise to the residents of Leawood, Missouri. Known for its well-maintained homes and upscale neighborhoods, Leawood demands the highest quality roofing services and materials, and we're committed to delivering just that. We understand the importance of protecting your investment with a durable, reliable roof.\n\nWe offer a full range of roofing services, including inspections, repairs, and replacements, using premium materials and expert craftsmanship. We appreciate the aesthetic standards of Leawood and ensure that our work enhances the beauty and value of your home.",
+        "localContext": "Leawood is characterized by upscale homes and a focus on maintaining property value; the climate in the region necessitates robust roofing to handle seasonal changes.",
+        "nearbyAreas": [
+          "Overland Park",
+          "Prairie Village",
+          "Olathe"
+        ]
+      },
+      {
+        "city": "Lenexa",
+        "slug": "lenexa-mo",
+        "state": "MO",
+        "content": "H&H Roofing and Restoration LLC proudly serves the roofing needs of Lenexa, Missouri. With a blend of established neighborhoods and newer developments, Lenexa presents a variety of roofing styles and challenges. We are equipped to handle any roofing project, from minor repairs to complete replacements.\n\nWe offer a comprehensive range of roofing services, tailored to the specific needs of Lenexa homeowners. We understand the importance of protecting your home from the elements and are committed to providing durable, reliable roofing solutions.",
+        "localContext": "Lenexa features a mix of older and newer homes, creating diverse roofing needs; the regional climate requires roofs that can withstand seasonal weather changes.",
+        "nearbyAreas": [
+          "Overland Park",
+          "Olathe",
+          "Shawnee"
+        ]
+      }
+    ],
+    "reviews": [
+      {
+        "name": "Sarah K.",
+        "rating": 5,
+        "service": "Roof Repair",
+        "text": "H&H Roofing fixed a tricky leak around my chimney that other companies couldn't seem to solve. They were prompt, professional, and clearly explained the repair process. Highly recommend!",
+        "date": "2025-03-15"
+      },
+      {
+        "name": "David M.",
+        "rating": 4,
+        "service": "Gutter Cleaning",
+        "text": "Great service! The team cleaned out all the leaves and debris from my gutters. They were on time and left my yard spotless.",
+        "date": "2024-11-20"
+      },
+      {
+        "name": "Jessica L.",
+        "rating": 5,
+        "service": "Roof Replacement",
+        "text": "We had H&H Roofing replace our entire roof after a bad hail storm. The crew was efficient, courteous, and did a fantastic job. Our new roof looks amazing, and we feel much more secure!",
+        "date": "2024-09-01"
+      },
+      {
+        "name": "Tom B.",
+        "rating": 5,
+        "service": "Storm Damage Repair",
+        "text": "After a tornado ripped through our neighborhood, H&H Roofing was quick to respond. They helped us navigate the insurance claim and repaired the damage to our roof and siding quickly and professionally.",
+        "date": "2024-06-10"
+      },
+      {
+        "name": "Amy S.",
+        "rating": 4,
+        "service": "Commercial Roofing",
+        "text": "H&H Roofing has been maintaining the roof on our office building for years. They are always responsive and provide quality work at a fair price.",
+        "date": "2024-02-28"
+      },
+      {
+        "name": "Kevin R.",
+        "rating": 5,
+        "service": "Siding Services",
+        "text": "We had H&H Roofing install new siding on our 1920s bungalow in Brookside. They did an excellent job matching the style of the home and the new siding looks beautiful. They really made our house look brand new!",
+        "date": "2023-12-05"
+      }
+    ],
+    "seo": {
+      "homepage": {
+        "title": "H&H Roofing | KC Roofing Experts",
+        "description": "Kansas City's trusted roofing contractor. Roof repair, replacement, gutters. Free inspections. Serving Overland Park, Olathe, Lee's Summit."
+      },
+      "about": {
+        "title": "About H&H Roofing | Kansas City MO",
+        "description": "Learn about H&H Roofing & Restoration's commitment to quality roofing services in Kansas City. Local experts, reliable results."
+      },
+      "services": {
+        "title": "H&H Roofing Services | KC Metro Area",
+        "description": "Comprehensive roofing services in Kansas City. Repair, replacement, gutters & more. Serving Overland Park, Olathe, Lee's Summit."
+      },
+      "contact": {
+        "title": "Contact H&H Roofing | Get a Free Quote",
+        "description": "Contact H&H Roofing for a free roofing inspection and quote. Serving Kansas City, Overland Park, Olathe, Lee's Summit."
+      },
+      "reviews": {
+        "title": "H&H Roofing Reviews | KC's Best Roofer?",
+        "description": "Read reviews from satisfied H&H Roofing customers in Kansas City. Quality roofing services, reliable results."
+      },
+      "service-areas": {
+        "title": "H&H Roofing Service Areas | KC Metro",
+        "description": "H&H Roofing provides expert roofing services in Kansas City & surrounding areas: Overland Park, Olathe, Lee's Summit. Contact us!"
+      }
+    },
+    "companyInfo": {
+      "yearsInBusiness": 12,
+      "projectsCompleted": "800+",
+      "satisfaction": "97%",
+      "teamSize": "20+"
+    }
+  },
+  "images": {
+    "hero": "/images/hero.webp",
+    "heroResponsive": {
+      "src": "/images/hero.webp",
+      "srcset": "/images/hero-400w.webp 400w, /images/hero-800w.webp 800w, /images/hero-1200w.webp 1200w, /images/hero.webp 1376w",
+      "sizes": "100vw",
+      "width": 1376,
+      "height": 768
+    },
+    "about": "/images/about.webp",
+    "aboutResponsive": {
+      "src": "/images/about.webp",
+      "srcset": "/images/about-400w.webp 400w, /images/about-800w.webp 800w, /images/about-1200w.webp 1200w, /images/about.webp 1200w",
+      "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+      "width": 1200,
+      "height": 896
+    },
+    "services": {
+      "roof-repair": "/images/service-roof-repair.webp",
+      "roof-replacement": "/images/service-roof-replacement.webp",
+      "gutter-services": "/images/service-gutter-services.webp",
+      "storm-damage-repair": "/images/service-storm-damage-repair.webp",
+      "commercial-roofing": "/images/service-commercial-roofing.webp",
+      "siding-services": "/images/service-siding-services.webp"
+    },
+    "servicesResponsive": {
+      "roof-repair": {
+        "src": "/images/service-roof-repair.webp",
+        "srcset": "/images/service-roof-repair-400w.webp 400w, /images/service-roof-repair-800w.webp 800w, /images/service-roof-repair-1200w.webp 1200w, /images/service-roof-repair.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "roof-replacement": {
+        "src": "/images/service-roof-replacement.webp",
+        "srcset": "/images/service-roof-replacement-400w.webp 400w, /images/service-roof-replacement-800w.webp 800w, /images/service-roof-replacement-1200w.webp 1200w, /images/service-roof-replacement.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "gutter-services": {
+        "src": "/images/service-gutter-services.webp",
+        "srcset": "/images/service-gutter-services-400w.webp 400w, /images/service-gutter-services-800w.webp 800w, /images/service-gutter-services-1200w.webp 1200w, /images/service-gutter-services.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "storm-damage-repair": {
+        "src": "/images/service-storm-damage-repair.webp",
+        "srcset": "/images/service-storm-damage-repair-400w.webp 400w, /images/service-storm-damage-repair-800w.webp 800w, /images/service-storm-damage-repair-1200w.webp 1200w, /images/service-storm-damage-repair.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "commercial-roofing": {
+        "src": "/images/service-commercial-roofing.webp",
+        "srcset": "/images/service-commercial-roofing-400w.webp 400w, /images/service-commercial-roofing-800w.webp 800w, /images/service-commercial-roofing-1200w.webp 1200w, /images/service-commercial-roofing.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "siding-services": {
+        "src": "/images/service-siding-services.webp",
+        "srcset": "/images/service-siding-services-400w.webp 400w, /images/service-siding-services-800w.webp 800w, /images/service-siding-services-1200w.webp 1200w, /images/service-siding-services.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    },
+    "gallery": [
+      "/images/gallery-0.webp",
+      "/images/gallery-1.webp"
+    ],
+    "galleryResponsive": [
+      {
+        "src": "/images/gallery-0.webp",
+        "srcset": "/images/gallery-0-400w.webp 400w, /images/gallery-0-800w.webp 800w, /images/gallery-0-1200w.webp 1200w, /images/gallery-0.webp 1200w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1200,
+        "height": 896
+      },
+      {
+        "src": "/images/gallery-1.webp",
+        "srcset": "/images/gallery-1-400w.webp 400w, /images/gallery-1-800w.webp 800w, /images/gallery-1-1200w.webp 1200w, /images/gallery-1.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    ]
+  }
+}
